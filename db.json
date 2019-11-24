@@ -55,7 +55,7 @@
             "immagineProfilo": "https://via.placeholder.com/150/0000FF/808080?Text=Paola%20Aranci"
         }
     ],
-    "user/1": {
+    "usersDetail": [{
         "id": 1,
         "nome": "Marco",
         "cognome": "Agostino",
@@ -69,8 +69,7 @@
         "dataNascita": "1983-12-06",
         "ruolo": "admin",
         "immagineProfilo": "https://via.placeholder.com/300/0000FF/808080?Text=Marco%20Agostino"
-    },
-    "user/2": {
+    },{
         "id": 2,
         "nome": "Mario",
         "cognome": "Rossi",
@@ -83,8 +82,7 @@
         "dataNascita": "1985-11-03",
         "ruolo": "user",
         "immagineProfilo": "https://via.placeholder.com/300/FF00FF/808080?Text=Mario%20Rossi"
-    },
-    "user/3": {
+    },{
         "id": 3,
         "nome": "Claudia",
         "cognome": "Bianchi",
@@ -97,8 +95,7 @@
         "dataNascita": "1977-10-16",
         "ruolo": "superuser",
         "immagineProfilo": "https://via.placeholder.com/300/00553F/808080?Text=Marco%20Agostino"
-    },
-    "user/4": {
+    },{
         "id": 4,
         "nome": "Gino",
         "cognome": "Verdi",
@@ -112,7 +109,7 @@
         "ruolo": "admin",
         "immagineProfilo": "https://via.placeholder.com/300/AA4400/808080?Text=Gino%20Verdi"
     },
-    "user/5": {
+    {
         "id": 5,
         "nome": "Maria",
         "cognome": "Indigo",
@@ -126,7 +123,7 @@
         "ruolo": "user",
         "immagineProfilo": "https://via.placeholder.com/300/FFFF22/808080?Text=Maria%20Indigo"
     },
-    "user/6": {
+     {
         "id": 6,
         "nome": "Paola",
         "cognome": "Aranci",
@@ -139,5 +136,5 @@
         "dataNascita": "1986-06-03",
         "ruolo": "admin",
         "immagineProfilo": "https://via.placeholder.com/300/0000FF/808080?Text=Paola%20Aranci"
-    }
+    }]
 }

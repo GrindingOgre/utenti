@@ -54,5 +54,90 @@
             "ruolo": "admin",
             "immagineProfilo": "https://via.placeholder.com/150/0000FF/808080?Text=Paola%20Aranci"
         }
-    ]
+    ],
+    "users/1": {
+        "id": 1,
+        "nome": "Marco",
+        "cognome": "Agostino",
+        "email": "marco.agostino@email.com",
+        "indirizzo": {
+            "via": "Viale Marconi, 1",
+            "citta": "Roma",
+            "cap": "00146"
+        },
+
+        "dataNascita": "1983-12-06",
+        "ruolo": "admin",
+        "immagineProfilo": "https://via.placeholder.com/300/0000FF/808080?Text=Marco%20Agostino"
+    },
+    "users/2": {
+        "id": 2,
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "indirizzo": {
+            "via": "Viale Marconi, 1",
+            "citta": "Roma",
+            "cap": "00146"
+        },
+        "email": "mario.rossi@email.com",
+        "dataNascita": "1985-11-03",
+        "ruolo": "user",
+        "immagineProfilo": "https://via.placeholder.com/300/FF00FF/808080?Text=Mario%20Rossi"
+    },
+    "users/3": {
+        "id": 3,
+        "nome": "Claudia",
+        "cognome": "Bianchi",
+        "indirizzo": {
+            "via": "Viale Marconi, 1",
+            "citta": "Roma",
+            "cap": "00146"
+        },
+        "email": "claudia.bianchi@email.com",
+        "dataNascita": "1977-10-16",
+        "ruolo": "superuser",
+        "immagineProfilo": "https://via.placeholder.com/300/00553F/808080?Text=Marco%20Agostino"
+    },
+    "users/4": {
+        "id": 4,
+        "nome": "Gino",
+        "cognome": "Verdi",
+        "indirizzo": {
+            "via": "Viale Marconi, 1",
+            "citta": "Roma",
+            "cap": "00146"
+        },
+        "email": "gino.verdi@email.com",
+        "dataNascita": "1980-02-23",
+        "ruolo": "admin",
+        "immagineProfilo": "https://via.placeholder.com/300/AA4400/808080?Text=Gino%20Verdi"
+    },
+    "users/5": {
+        "id": 5,
+        "nome": "Maria",
+        "cognome": "Indigo",
+        "indirizzo": {
+            "via": "Viale Marconi, 1",
+            "citta": "Roma",
+            "cap": "00146"
+        },
+        "email": "maria.indigo@email.com",
+        "dataNascita": "1990-01-01",
+        "ruolo": "user",
+        "immagineProfilo": "https://via.placeholder.com/300/FFFF22/808080?Text=Maria%20Indigo"
+    },
+    "users/6": {
+        "id": 6,
+        "nome": "Paola",
+        "cognome": "Aranci",
+        "indirizzo": {
+            "via": "Viale Marconi, 1",
+            "citta": "Roma",
+            "cap": "00146"
+        },
+        "email": "paola.aranci@email.com",
+        "dataNascita": "1986-06-03",
+        "ruolo": "admin",
+        "immagineProfilo": "https://via.placeholder.com/300/0000FF/808080?Text=Paola%20Aranci"
+    }
 }

@@ -1,0 +1,57 @@
+[
+ {
+     "id": 1,
+     "nome": "Marco",
+     "cognome": "Agostino",
+     "email": "marco.agostino@email.com",
+     "dataNascita": "1983-12-06",
+     "ruolo": "admin",
+     "immagineProfilo": "https://via.placeholder.com/150/0000FF/808080?Text=Marco%20Agostino"
+ }, 
+{
+     "id": 2,
+     "nome": "Mario",
+     "cognome": "Rossi",
+     "email": "mario.rossi@email.com",
+     "dataNascita": "1985-11-03",
+     "ruolo": "user",
+     "immagineProfilo": "https://via.placeholder.com/150/FF00FF/808080?Text=Mario%20Rossi"
+ }, 
+{
+     "id": 3,
+     "nome": "Claudia",
+     "cognome": "Bianchi",
+     "email": "claudia.bianchi@email.com",
+     "dataNascita": "1977-10-16",
+     "ruolo": "superuser",
+     "immagineProfilo": "https://via.placeholder.com/150/00553F/808080?Text=Marco%20Agostino"
+ }, 
+{
+     "id": 4,
+     "nome": "Gino",
+     "cognome": "Verdi",
+     "email": "gino.verdi@email.com",
+     "dataNascita": "1980-02-23",
+     "ruolo": "admin",
+     "immagineProfilo": "https://via.placeholder.com/150/AA4400/808080?Text=Gino%20Verdi"
+ }, 
+{
+     "id": 5,
+     "nome": "Maria",
+     "cognome": "Indigo",
+     "email": "maria.indigo@email.com",
+     "dataNascita": "1990-01-01",
+     "ruolo": "user",
+     "immagineProfilo": "https://via.placeholder.com/150/FFFF22/808080?Text=Maria%20Indigo"
+ }, 
+{
+     "id": 6,
+     "nome": "Paola",
+     "cognome": "Aranci",
+     "email": "paola.aranci@email.com",
+     "dataNascita": "1986-06-03",
+     "ruolo": "admin",
+     "immagineProfilo": "https://via.placeholder.com/150/0000FF/808080?Text=Paola%20Aranci"
+ }
+
+]
